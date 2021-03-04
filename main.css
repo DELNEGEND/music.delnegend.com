@@ -15,7 +15,7 @@ body {
 }
 
 html {
-  background: url("poster.jpg") no-repeat center center fixed;
+  background: url("pexels-johannes-plenio-1103970.jpg") no-repeat center center fixed;
   background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -62,7 +62,7 @@ header {
   background-color: var(--main-text-bg);
   text-align: center;
   padding: .84em;
-  font-size: 1.84em;
+  font-size: 1.6em;
   display: flex;
   align-items: center;
   justify-content: center;
